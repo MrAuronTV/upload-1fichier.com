@@ -7,9 +7,10 @@ Script python permettant d'uploader un fichier sur son compte 1ficher.com
 ./main.py <nom du fichier/chemin absolu>   
 Le fichier apparaitra quelques minutes apres la fin de l'upload sur votre compte le temps qu'il quitte le stockage chaud.
 
+Kick : https://www.kick.com/mraurontv     
 Twitch : https://www.twitch.tv/mraurontv    
-Youtube : https://www.youtube.com/user/mraurontv  
-Discord : https://discord.gg/tjU9ZGa
+Youtube : https://www.youtube.com/user/mraurontv    
+Discord : https://discord.gg/dDUXt2J    
 
 ETH: 0x4190Ce2b47b5485Af12aa0ad4981a6AA93c650b8    
 BTC: 33rVsFxnCTh5sJpeZtJ9b1WQJFb8StadfB    
